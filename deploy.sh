@@ -1,8 +1,2 @@
-updated dae 12-05-2022
-updated again also...
-again updated... in stage..
-testing stash command...
-this line updated in stage branch..
-updated this file...
-again updated this file..
+updated this file..
 this file contains the deployment script..
